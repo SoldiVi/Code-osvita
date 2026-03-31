@@ -2,4 +2,34 @@ baseURL = 'http://localhost:1313/'
 languageCode = 'ua-uk'
 title = 'Code-Osvita'
 theme = 'hugo-theme-relearn'
+showdate = false
 
+[menu]                                
+  [[menu.main]]
+    identifier = "lectures"
+    name = "Лекції"
+    url = "/lectures/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "labs"
+    name = "Лабораторні роботи"
+    url = "/labs/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "Про сайт"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tests"
+    name = "Тести"
+    url = "/tests/"
+    weight = 10
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
