@@ -1,0 +1,5 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'ua-uk'
+title = 'Code-Osvita'
+theme = 'hugo-theme-relearn'
+
