@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://soldivi.github.io/'
 languageCode = 'ua-uk'
 title = 'Code-Osvita'
 theme = 'hugo-theme-relearn'
