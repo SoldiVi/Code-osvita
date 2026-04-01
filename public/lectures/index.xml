@@ -6,6 +6,14 @@
     <description>This is a new chapter.</description>
     <generator>Hugo</generator>
     <language>ua-uk</language>
+    <lastBuildDate>Wed, 01 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/lectures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Лекція 1: Основні відомості мови програмування Python</title>
+      <link>http://localhost:1313/lectures/lecture1/lecture1/index.html</link>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lectures/lecture1/lecture1/index.html</guid>
+      <description>Лекція 1&#xD;Основні відомості мови програмування Python&#xA;План:&#xD;1.1. Історична довідка&#xA;1.2. Python в реальному світі&#xA;1.2.1. Короткий опис&#xA;1.2.2. Використання Python&#xA;1.2.3. Версії Python&#xA;2. Завантаження Python&#xA;2.1. Середовище програмування для Python&#xA;2.2 Текстові редактори та інтегровані середовища програмування для Python</description>
+    </item>
   </channel>
 </rss>
