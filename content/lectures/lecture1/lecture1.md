@@ -47,7 +47,7 @@ Python абсолютно безкоштовний.
 
 Окрім того, Python легко розширюється модулями, написаними на C або C++. Такі модулі можуть використовуватися для виконання частин програми, що створюють інтенсивне навантаження на процесор.  
 
-./Л1_Вступ_до_Python.mp4
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sT7p25cagKY?si=jjVw53-EFeS2oNNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
