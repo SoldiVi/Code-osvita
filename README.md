@@ -1,2 +1,0 @@
-# osvita.python
-# 423
