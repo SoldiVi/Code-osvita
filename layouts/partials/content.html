@@ -1,0 +1,11 @@
+{{ .Content }}
+
+{{- if .IsSection }}
+  <ul class="page-list">
+    {{- range .RegularPagesRecursive.ByTitle }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </li>
+    {{- end }}
+  </ul>
+{{- end }}
