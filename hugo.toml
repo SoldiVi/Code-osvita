@@ -1,6 +1,6 @@
 baseURL = 'https://soldivi.github.io/'
 languageCode = 'ua-uk'
-title = 'Code-Osvita'
+title = 'Code Osvita'
 theme = 'hugo-theme-relearn'
 showdate = false
 
@@ -30,6 +30,11 @@ showdate = false
     weight = 10
 
 [markup]
-  [markup.goldmark]
+    [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+    [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+    unsafe = true
